@@ -1,5 +1,7 @@
+# baitap
 # Trương Đức Mạnh
 ### MSV: 22810310320
+#  Git
 ## Ket qua
 
-![Hinh anh 01](screenshot_1.png)
+![anh1](anh1.jpg)
